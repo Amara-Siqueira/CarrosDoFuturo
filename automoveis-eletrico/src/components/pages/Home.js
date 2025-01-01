@@ -15,7 +15,7 @@ function Home() {
         ambiente mais tranquilo dentro do veículo, o que é uma vantagem
         significativa em relação aos carros a combustão.
       </p>
-      <img src= <Jac /> alt=""/>
+      <img src= "<Jac /> "alt=""/>
       <h1>Impacto Ambiental Positivo</h1>
       <p>
         Uma das principais vantagens dos carros elétricos é que, por não
